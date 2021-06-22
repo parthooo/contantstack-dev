@@ -1,0 +1,43 @@
+body {
+  font-family: "Graphik Web", "Helvetica Neue", "Helvetica", sans-serif;
+  /* text-align: center; */
+  font-size: 15px;
+  padding: 7%;
+  background: #f7f7f7;
+  /* background-image: linear-gradient(90deg, #311b92, #880e4f, #bf360c); */
+}
+#title {
+  font-size: 5vw;
+}
+#description {
+  font-size: 3.5vw;
+}
+img {
+  max-width: 100%;
+  border: 2px solid #cdc9c3;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 90%;
+  /* height: 40%; */
+  padding: 5%;
+  background-color: #fbf7f0;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(251, 251, 251, 0.2);
+}
+
+.tab-style {
+  background: darkgray;
+}
+
+.moduler {
+  width: 90%;
+  background: #dddddd;
+  padding: 0px 0px 10px;
+}
+.nav-link {
+  color: #f9fafb;
+}
